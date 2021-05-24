@@ -1,0 +1,13 @@
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.exe
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.deps.json
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.runtimeconfig.json
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.runtimeconfig.dev.json
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.dll
+C:\Assignment\BinaryString\bin\Debug\netcoreapp3.1\BinaryString.pdb
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.csprojAssemblyReference.cache
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.AssemblyInfoInputs.cache
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.AssemblyInfo.cs
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.csproj.CoreCompileInputs.cache
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.dll
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.pdb
+C:\Assignment\BinaryString\obj\Debug\netcoreapp3.1\BinaryString.genruntimeconfig.cache
